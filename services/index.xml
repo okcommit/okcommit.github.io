@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on OK Commit</title>
+    <link>http://www.okcommit.com/services/</link>
+    <description>Recent content in Services on OK Commit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Oct 2018 12:51:49 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.okcommit.com/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Strategy Facilitation</title>
+      <link>http://www.okcommit.com/services/facilitation/</link>
+      <pubDate>Mon, 15 Oct 2018 12:51:49 -0400</pubDate>
+      
+      <guid>http://www.okcommit.com/services/facilitation/</guid>
+      <description>We can help your organization with your OKR process through a comprehensive OKR implementation tailored for your organization that includes strategy sessions, manager certification, remote coaching sessions, and launch reviews to ensure sustainable results.
+The facilitation includes:
+ An executive leadership 1-day strategy session to develop annual stategic objectives and key results for organziation. A manager 2-day training session to certify your managers in the OKC process and establish team objectives and key results.</description>
+    </item>
+    
+    <item>
+      <title>Remote Coaching</title>
+      <link>http://www.okcommit.com/services/remote/</link>
+      <pubDate>Sun, 14 Oct 2018 12:51:49 -0400</pubDate>
+      
+      <guid>http://www.okcommit.com/services/remote/</guid>
+      <description>If you are not interested in a comprehensive OKR implementation, we can provide a series of remote coaching sessions for your internal coaches (shepherds) and webinars to help guide your managers in your OKR implementation.
+Remote coaching is appropriate for teams with OKR process experience or other goal setting methodologies.
+Interested in learning more? Fill out the form below and we will contact you with additional information.</description>
+    </item>
+    
+    <item>
+      <title>Office Hours</title>
+      <link>http://www.okcommit.com/services/officehours/</link>
+      <pubDate>Sat, 13 Oct 2018 12:51:49 -0400</pubDate>
+      
+      <guid>http://www.okcommit.com/services/officehours/</guid>
+      <description>We provide one-off consultations to answer your OKR-related questions and help you diagnose adoption and process issues.
+The hours can be used in various ways:
+ Answer OKR process questions or specific questions about your OKR implementation. Diagnose &amp;ldquo;piping&amp;rdquo; issues with objectives and a lack of meaningful progress towards key results. Discuss adoption challenges with the OKR process. Answer specific questions about your implementation. Provide quick assessments of your OKR implementation.</description>
+    </item>
+    
+  </channel>
+</rss>

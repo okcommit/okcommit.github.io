@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strategy on OK Commit</title>
+    <link>http://www.okcommit.com/tags/strategy/</link>
+    <description>Recent content in Strategy on OK Commit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Oct 2018 16:40:42 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.okcommit.com/tags/strategy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>From Mission to Vision: Your Organization Strategy</title>
+      <link>http://www.okcommit.com/learn/from-mission-to-vision-your-organization-strategy/</link>
+      <pubDate>Wed, 17 Oct 2018 16:40:42 -0400</pubDate>
+      
+      <guid>http://www.okcommit.com/learn/from-mission-to-vision-your-organization-strategy/</guid>
+      <description>OKC fits within the broader strategic context of an organization.
+Your organization should have both a mission and a set of values. The mission answers the question “Why do we exist?” The organizational values are traits or qualities that the organization considers worthwhile and define how you should behave. The outer box in diagram represents your mission and values. Your mission and values help the organization understand what “is in” and what “is out” of the box.</description>
+    </item>
+    
+  </channel>
+</rss>

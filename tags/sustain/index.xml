@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sustain on OK Commit</title>
+    <link>http://www.okcommit.com/tags/sustain/</link>
+    <description>Recent content in Sustain on OK Commit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Oct 2018 10:11:17 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.okcommit.com/tags/sustain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Sustain OKC</title>
+      <link>http://www.okcommit.com/learn/how-to-sustain-okrs/</link>
+      <pubDate>Thu, 18 Oct 2018 10:11:17 -0400</pubDate>
+      
+      <guid>http://www.okcommit.com/learn/how-to-sustain-okrs/</guid>
+      <description>While OKC principles seem simple, sustaining the process is harder than you think. Organizations implementing OKC will run into three issues:
+ The novelty wears off in about 8 to 10 weeks. Team members will lose interest without reinforcement. The internal or external conditions may change. New opportunities or threats emerge that may impact an objective. The team’s assumption and predictions were wrong for their objective and key results. With OKC, you are making both strategic and execution bets.</description>
+    </item>
+    
+  </channel>
+</rss>

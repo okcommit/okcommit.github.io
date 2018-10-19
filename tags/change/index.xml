@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Change on OK Commit</title>
+    <link>http://www.okcommit.com/tags/change/</link>
+    <description>Recent content in Change on OK Commit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Oct 2018 19:10:37 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.okcommit.com/tags/change/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Change Is Hard</title>
+      <link>http://www.okcommit.com/learn/change-is-hard/</link>
+      <pubDate>Wed, 17 Oct 2018 19:10:37 -0400</pubDate>
+      
+      <guid>http://www.okcommit.com/learn/change-is-hard/</guid>
+      <description>Why is change so hard for your team members? In particular, if the strategic objectives are so important to the organization, why do team members struggle to execute against their goals? Some reasons could include:
+ The goals are unrealistic to achieve or lack clarity. Sometimes, there are too many goals to complete for a team member. In other cases, the goal might not be influenceable. As a result, the team member does not believe they will succeed.</description>
+    </item>
+    
+  </channel>
+</rss>

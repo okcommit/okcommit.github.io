@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keyresults on OK Commit</title>
+    <link>http://www.okcommit.com/tags/keyresults/</link>
+    <description>Recent content in Keyresults on OK Commit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Oct 2018 12:51:26 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.okcommit.com/tags/keyresults/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What Makes a Good Key Result?</title>
+      <link>http://www.okcommit.com/learn/what-makes-a-good-key-result/</link>
+      <pubDate>Thu, 18 Oct 2018 12:51:26 -0400</pubDate>
+      
+      <guid>http://www.okcommit.com/learn/what-makes-a-good-key-result/</guid>
+      <description>Your key results should be:
+Measurable A key result is quantifiable and should have an X and Y. You should be able to collect data for the key result and measure progress during the cycle.
+Time Bound A key result should have a date for the Y value. We recommend short and strict time frames for key results to help the team focus and reduce uncertainty. The date should align with your organization’s goal setting cycles.</description>
+    </item>
+    
+    <item>
+      <title>Discovering Your Key Results</title>
+      <link>http://www.okcommit.com/learn/discovering-your-key-results/</link>
+      <pubDate>Thu, 18 Oct 2018 10:58:45 -0400</pubDate>
+      
+      <guid>http://www.okcommit.com/learn/discovering-your-key-results/</guid>
+      <description>In determining your key results, ask, “What does success look like for this objective?” A common mistake when creating key results is to define activities instead of outcomes for key results. Your key results should measure a result, not effort. We define success as improving something and making an impact instead of completing a project or task. Making an impact can include sustaining a metric and increasing or decreasing a metric.</description>
+    </item>
+    
+    <item>
+      <title>What Is a Key Result?</title>
+      <link>http://www.okcommit.com/learn/what-is-a-key-result/</link>
+      <pubDate>Thu, 18 Oct 2018 09:47:41 -0400</pubDate>
+      
+      <guid>http://www.okcommit.com/learn/what-is-a-key-result/</guid>
+      <description>Key results measure your progress towards achievement of a given objective. If the objective is the “what”, the key result is the “how” – how you will know if you succeeded. Key results are quantitative and will use a number in the statement. The sum of the key results will result in a desired outcome for the objective and drive the right behavior. The key results must also be measurable. If you can’t collect the data, then you can’t measure your progress towards the key result.</description>
+    </item>
+    
+  </channel>
+</rss>

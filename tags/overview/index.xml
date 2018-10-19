@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learn about OKC on OK Commit</title>
-    <link>http://www.okcommit.com/learn/</link>
-    <description>Recent content in Learn about OKC on OK Commit</description>
+    <title>Overview on OK Commit</title>
+    <link>http://www.okcommit.com/tags/overview/</link>
+    <description>Recent content in Overview on OK Commit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 18:12:34 -0400</lastBuildDate>
     
-	<atom:link href="http://www.okcommit.com/learn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.okcommit.com/tags/overview/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -40,83 +40,6 @@ On May 25, 1961, John F. Kennedy before the joint session of congress, set the f
       <guid>http://www.okcommit.com/learn/commit-to-ensure-your-success/</guid>
       <description>According to a recent study done by U.S. News, 80% of New Year’s resolution makers become New Year’s resolution breakers by the second week of February. Similarly, many organizations suffer a similar fate with their OKR implementation. A common mistake many teams make with their objectives and key results is that they “set and forget” goals.
 In both cases, the reason they fail is that they don’t take small steps and review progress on a regular basis.</description>
-    </item>
-    
-    <item>
-      <title>Commitment Meeting Best Practices</title>
-      <link>http://www.okcommit.com/learn/commitment-meeting-best-practices/</link>
-      <pubDate>Thu, 18 Oct 2018 13:19:33 -0400</pubDate>
-      
-      <guid>http://www.okcommit.com/learn/commitment-meeting-best-practices/</guid>
-      <description>This article discusses some logistics and best practices for your commitment meetings.
-Types of Meetings Depending on your commitment type, you have a few options for your meetings:
- Commitment meetings are 10-15 minutes long and cover the 4-question agenda. Most teams will use commitment meetings. Commitment meetings are best when the team makes small outcome commitments or uses projects to influence the key results. Commitment huddles are 5 minutes long and are best when using leveraged behavior commitments.</description>
-    </item>
-    
-    <item>
-      <title>The Three Types of Commitments</title>
-      <link>http://www.okcommit.com/learn/the-three-types-of-commitments/</link>
-      <pubDate>Thu, 18 Oct 2018 13:03:20 -0400</pubDate>
-      
-      <guid>http://www.okcommit.com/learn/the-three-types-of-commitments/</guid>
-      <description>Making regular commitments towards the key results is where the real execution takes place. Let’s discuss how to tailor commitment making for your team.
-Types of Commitments There are three types of commitments to consider:
- Leveraged behaviors track the specific behaviors you want the team to perform throughout the week. It holds the team accountable for performing the behavior rather than producing the result. You can track leveraged behaviors on an individual or team basis.</description>
-    </item>
-    
-    <item>
-      <title>What Makes a Good Key Result?</title>
-      <link>http://www.okcommit.com/learn/what-makes-a-good-key-result/</link>
-      <pubDate>Thu, 18 Oct 2018 12:51:26 -0400</pubDate>
-      
-      <guid>http://www.okcommit.com/learn/what-makes-a-good-key-result/</guid>
-      <description>Your key results should be:
-Measurable A key result is quantifiable and should have an X and Y. You should be able to collect data for the key result and measure progress during the cycle.
-Time Bound A key result should have a date for the Y value. We recommend short and strict time frames for key results to help the team focus and reduce uncertainty. The date should align with your organization’s goal setting cycles.</description>
-    </item>
-    
-    <item>
-      <title>Discovering Your Key Results</title>
-      <link>http://www.okcommit.com/learn/discovering-your-key-results/</link>
-      <pubDate>Thu, 18 Oct 2018 10:58:45 -0400</pubDate>
-      
-      <guid>http://www.okcommit.com/learn/discovering-your-key-results/</guid>
-      <description>In determining your key results, ask, “What does success look like for this objective?” A common mistake when creating key results is to define activities instead of outcomes for key results. Your key results should measure a result, not effort. We define success as improving something and making an impact instead of completing a project or task. Making an impact can include sustaining a metric and increasing or decreasing a metric.</description>
-    </item>
-    
-    <item>
-      <title>What Makes a Good Objective?</title>
-      <link>http://www.okcommit.com/learn/what-makes-a-good-objective/</link>
-      <pubDate>Thu, 18 Oct 2018 10:45:04 -0400</pubDate>
-      
-      <guid>http://www.okcommit.com/learn/what-makes-a-good-objective/</guid>
-      <description>Your objectives should be:
-High impact Achieving a team objective should impact your organization. The achievement should be worthy of a celebration. Avoid creating “business as usual” objectives. We define “business as usual” objectives as those written based on what the team believes they can achieve without changing their behavior. Outcomes of this process are to help the team evolve, continue to innovate, and drive efficiency.
-Clear Use clear language.</description>
-    </item>
-    
-    <item>
-      <title>Discovering Your Team Objective</title>
-      <link>http://www.okcommit.com/learn/discovering-your-team-objective/</link>
-      <pubDate>Thu, 18 Oct 2018 10:39:57 -0400</pubDate>
-      
-      <guid>http://www.okcommit.com/learn/discovering-your-team-objective/</guid>
-      <description>The following questions are helpful in discovering your team objective:
- How can we contribute to one of the strategic objectives?
- Which of the key results associated with a strategic objective can we impact?
- Which area of our team’s performance would we want to improve the most to achieve a strategic objective?
- What area of excellence for our team could we improve to an even higher level to ensure the organization achieves a strategic objective?</description>
-    </item>
-    
-    <item>
-      <title>The Three Types of Objectives</title>
-      <link>http://www.okcommit.com/learn/the-three-types-of-objectives/</link>
-      <pubDate>Thu, 18 Oct 2018 10:29:58 -0400</pubDate>
-      
-      <guid>http://www.okcommit.com/learn/the-three-types-of-objectives/</guid>
-      <description>There are three types of objectives:
-Strategic Objectives Strategic objectives are your organization’s high-level and longer-term objectives. Organizations typically set strategic objectives annually. The organization will review these objectives throughout the year. However, organizations may set strategic objectives more frequent with the understanding that overhead exists with managing these objectives. Organizations establish strategic objectives first before they set any other objective types.
-Team Objectives Team objectives are tactical objectives created by a team.</description>
     </item>
     
     <item>
