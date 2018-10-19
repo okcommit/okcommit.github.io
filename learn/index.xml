@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learn about OKC on OK Commit</title>
+    <link>http://okcommit.com/learn/</link>
+    <description>Recent content in Learn about OKC on OK Commit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://okcommit.com/learn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
