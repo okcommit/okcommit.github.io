@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on OK Commit</title>
-    <link>http://okcommit.com/tags/</link>
+    <link>http://www.okcommit.com/tags/</link>
     <description>Recent content in Tags on OK Commit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://okcommit.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.okcommit.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
