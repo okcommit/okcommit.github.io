@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.okcommit.com/about/us/</loc>
+    <lastmod>2018-10-19T12:42:09-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.okcommit.com/learn/how-is-okr-different-from-okc/</loc>
     <lastmod>2018-10-18T18:12:34-04:00</lastmod>
   </url>
@@ -98,6 +103,12 @@
   </url>
   
   <url>
+    <loc>http://www.okcommit.com/about/</loc>
+    <lastmod>2018-10-19T12:42:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.okcommit.com/categories/</loc>
     <priority>0</priority>
   </url>
@@ -122,7 +133,7 @@
   
   <url>
     <loc>http://www.okcommit.com/</loc>
-    <lastmod>2018-10-18T18:12:34-04:00</lastmod>
+    <lastmod>2018-10-19T12:42:09-04:00</lastmod>
     <priority>0</priority>
   </url>
   
